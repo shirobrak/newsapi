@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Startribune.com"
+            },
+            "author": "HYUNG-JIN KIM, Associated Press",
+            "title": "S. Korea sends tangerines to North in return for mushrooms",
+            "description": "South Korea has airlifted 200 tons of tangerines to North Korea in return for shipments of pine mushrooms by the North in September, officials said Monday.",
+            "url": "http://www.startribune.com/south-korea-ships-tangerines-to-north-which-sent-mushrooms/500244781/",
+            "urlToImage": "http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1541712114",
+            "publishedAt": "2018-11-12T08:37:30Z",
+            "content": "SEOUL, South Korea — South Korea has airlifted 200 tons of tangerines to North Korea in return for shipments of pine mushrooms by the North in September, officials said Monday. South Korean military planes flew to Pyongyang, North Korea's capital, on Sunday a… [+2903 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": null,
+            "title": "Netanyahu rushes home after burst of Israel-Gaza violence",
+            "description": null,
+            "url": "https://www.washingtonpost.com/world/europe/fresh-fighting-erupts-amid-steps-to-tone-down-gaza-violence/2018/11/11/93c211e2-e612-11e8-8449-1ff263609a31_story.html",
+            "urlToImage": null,
+            "publishedAt": "2018-11-12T08:26:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "AP",
+            "title": "US Navy Warplane Crashes Into The Sea Northeast Of The Philippines",
+            "description": "This was the second crash involving aircraft belonging to the USS Ronald Reagan in less than a month.",
+            "url": "https://www.huffingtonpost.com/entry/us-navy-warplane-crash_us_5be93666e4b0769d24cef4c8",
+            "urlToImage": "https://img.huffingtonpost.com/asset/5be937c22100005204ca2547.jpeg?cache=3jppjzap7k&ops=1910_1000",
+            "publishedAt": "2018-11-12T08:23:00Z",
+            "content": "TOKYO (AP) — A U.S. combat jet from the aircraft carrier USS Ronald Reagan crashed into the sea northeast of the Philippines on Monday, but its two pilots were rescued safely. The U.S. Navy’s 7th Fleet said the F/A-18 Hornet had a mechanical problem during ro… [+788 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Anika Reed",
+            "title": "5 biggest moments from the 2018 People's Choice Awards",
+            "description": "From celebrities shouting out first responders battling the California wildfire to Victoria Beckham's speech, these were the biggest People's Choice Awards moments.",
+            "url": "https://www.usatoday.com/story/life/people/2018/11/12/peoples-choice-awards-2018-5-biggest-moments/1973366002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2018/11/12/USAT/5dbba175-f7ee-4229-9402-ab376b2ca843-NUP_185094_0045.JPG?crop=3139,1766,x0,y65&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2018-11-12T06:03:36Z",
+            "content": "Stars at the People's Choice Awards relay messages to President-elect Donald Trump. (Jan. 19) AP Kendall Jenner, Khloe Kardashian, Kim Kardashian, Kourtney Kardashian, and Kris Jenner accept The Reality Show of 2018 award for \"Keeping Up with the Kardashians\"… [+6628 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Midterm fury fuels Trump's assault on constitutional norms",
+            "description": null,
+            "url": "https://www.cnn.com/2018/11/12/politics/trump-midterms-reaction-constitution/index.html",
+            "urlToImage": null,
+            "publishedAt": "2018-11-12T06:02:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Geddie",
+            "title": "China says will further open up its economy, slams rising protectionism",
+            "description": "Chinese Premier Li Keqiang said on Monday Beijing will further open up its economy in the face of rising protectionism, as he headed for meetings with Asia-Pacific leaders in Singapore that are expected to focus on trade tensions.",
+            "url": "https://uk.reuters.com/article/us-asean-summit/china-says-will-further-open-up-its-economy-slams-rising-protectionism-idUKKCN1NH07B",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20181112&t=2&i=1324576684&w=1200&r=LYNXNPEEAB08Z",
+            "publishedAt": "2018-11-12T05:43:00Z",
+            "content": "SINGAPORE (Reuters) - Chinese Premier Li Keqiang said on Monday Beijing will further open up its economy in the face of rising protectionism, as he headed for meetings with Asia-Pacific leaders in Singapore that are expected to focus on trade tensions. Li’s r… [+2729 chars]"
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "AP",
+            "title": "California Fires Rage At Both Ends Of State, Leaving At Least 29 Dead",
+            "description": "Another 228 remain unaccounted for as crews stepped up the search for bodies and missing people.",
+            "url": "https://www.huffingtonpost.com/entry/california-fires-death-toll_us_5be8981fe4b0e84388993aae",
+            "urlToImage": "https://img.huffingtonpost.com/asset/5be8a3da2200000f03de3b5e.jpeg?cache=dbdffa2sjz&ops=1910_1000",
+            "publishedAt": "2018-11-12T05:28:28Z",
+            "content": "PARADISE, Calif. (AP) — As wildfires continued to rage on both ends of California, officials released another grim statistic: six more dead in a swath of Northern California wiped out by fire, raising the death toll there to 29. It matched California’s record… [+5875 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsports.com"
+            },
+            "author": "https://twitter.com/RoobNBCS/",
+            "title": "Cowboys 27, Eagles 20: RIP 2018 Eagles season",
+            "description": "There's no excuse, the Eagles just looked like a bad football team in a 27-20 loss to the Cowboys Sunday at the Linc. Here are Reuben Frank's 10 observations from a disappointing night.",
+            "url": "https://www.nbcsports.com/philadelphia/eagles/cowboys-27-eagles-20-no-excuses-eagles-look-bad-football-team-loss-cowboys-roobs-observations",
+            "urlToImage": "https://www.nbcsports.com/philadelphia/sites/csnphilly/files/2018/11/11/ap_carson_wentz_eagles.jpg",
+            "publishedAt": "2018-11-12T05:18:31Z",
+            "content": "Live stream tonight's Eagles-Cowboys Sunday Night Football game on NBC10 right here. *** 11:26 p.m.: The Eagles got the ball at their own 30 with 3:14 in the game and started to drive down the field. But on 3rd-and-2, they ran a screen pass to Corey Clement t… [+10642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsports.com"
+            },
+            "author": "https://www.facebook.com/JJStankevitzCSN/",
+            "title": "Bears' trust in Cody Parkey is 'not shot' after brutal four-doink day",
+            "description": "The Bears remain confident Cody Parkey can live up to his $15 million contract even after he doinked four kicks off the uprights at Soldier Field on Sunday.",
+            "url": "https://www.nbcsports.com/chicago/bears/bears-trust-cody-parkey-not-shot-after-brutal-four-doink-day",
+            "urlToImage": "https://www.nbcsports.com/chicago/sites/csnchicago/files/2018/11/11/11-11codyparkey.jpg",
+            "publishedAt": "2018-11-12T05:09:35Z",
+            "content": "In-season accomplishments are incomplete benchmarks at best, but the Bears’ 34-22 win Sunday over the Detroit Lions had the feel of more than simply another victory for a team that in nine games has matched its best full-season win total in any of the previou… [+6166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espn.com"
+            },
+            "author": null,
+            "title": "Carmelo Anthony's teammates don't believe he will return to Houston Rockets",
+            "description": "Houston Rockets players and coaches believe Carmelo Anthony has played his final game for the franchise, sources told ESPN.",
+            "url": "http://www.espn.com/nba/story/_/id/25251730/carmelo-anthony-teammates-believe-return-houston-rockets",
+            "urlToImage": "http://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F1005%2Fr442587_1296x729_16%2D9.jpg",
+            "publishedAt": "2018-11-12T05:09:27Z",
+            "content": "HOUSTON -- Several players and members of the Rockets coaching staff believe that Carmelo Anthony has played his final game for the franchise, sources told ESPN on Sunday. The organization has trod delicately on finalizing an exit for Anthony out of respect f… [+4012 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gregg Re",
+            "title": "Dems to probe Trump's treatment of CNN, Amazon, Washington Post in triple-threaded abuse-of-power inquiries",
+            "description": "The incoming chairman of the House Intelligence Committee said this week that when the new Congress is seated in January, Democrats plan scrutinize whether President Trump abused his power by taking adverse action against three of his favorite punching bags: …",
+            "url": "https://www.foxnews.com/politics/dems-to-probe-trumps-treatment-of-cnn-amazon-washington-post-in-abuse-of-power-inquiries",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/22/694940094001_5756300197001_5756278225001-vs.jpg",
+            "publishedAt": "2018-11-12T03:36:22Z",
+            "content": "The incoming chairman of the House Intelligence Committee this week said that when the new Congress is seated in January, Democrats plan to scrutinize whether President Trump abused his authority by taking adverse action against retail giant Amazon and two of… [+7894 chars]"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": null,
+            "title": "Australian Woman Accused of Spiking Strawberries With Needles",
+            "description": "The tampering fueled a nationwide panic that severely hurt the industry, prompted copycat incidents and led some stores to stop stocking the fruit.",
+            "url": "https://www.nytimes.com/2018/11/11/world/australia/strawberries-needles-woman-arrested.html",
+            "urlToImage": "https://static01.nyt.com/images/2018/11/13/world/130z-strawberry2/130z-strawberry2-facebookJumbo.jpg",
+            "publishedAt": "2018-11-12T03:07:25Z",
+            "content": "“It put me into shock,” the man, Hoani Hearne told 9 News in an interview. The incidents caused something of a nationwide hysteria, and led to more than 230 copycat incidents and false reports of similar strawberry spikings. Needles were also reported in some… [+698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Startribune.com"
+            },
+            "author": "Associated Press",
+            "title": "Suspicious package found at Florida airport deemed safe",
+            "description": "The Broward Sheriff's Office says a suspicious package that was found at Fort Lauderdale-Hollywood International Airport has been deemed safe.",
+            "url": "http://www.startribune.com/suspicious-package-found-at-florida-airport-traffic-blocked/500246031/",
+            "urlToImage": "http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1541712114",
+            "publishedAt": "2018-11-12T02:48:45Z",
+            "content": "FORT LAUDERDALE, Fla. — The Broward Sheriff's Office says a suspicious package that was found at Fort Lauderdale-Hollywood International Airport has been deemed safe. The Miami Herald reported that the sheriff's office says the package was found just after 6:… [+250 chars]"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": null,
+            "title": "Uncounted Ballots, Overvoted Ballots: Why Is the Governor Claiming Fraud in Florida's Election?",
+            "description": "Questions swirl around the vote tally in Florida, where Gov. Rick Scott has filed lawsuits over the handling of ballots, alleging fraud. The truth is more complicated.",
+            "url": "https://www.nytimes.com/2018/11/11/us/florida-recount-elections-scott-nelson-desantis-gillum.html",
+            "urlToImage": "https://static01.nyt.com/images/2018/11/12/us/12florida-print/merlin_146689425_4ee2c9d2-f2e0-4468-ae36-0afc8b4f2f38-facebookJumbo.jpg",
+            "publishedAt": "2018-11-12T02:12:49Z",
+            "content": "Palm Beach County’s elections supervisor, Susan Bucher, said that her county’s machines are too old to conduct three full recounts as quickly as required, and the county would be unable to meet the deadline on Thursday. Florida’s protracted 2018 midterm elect… [+2060 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil McCausland, Alex Johnson",
+            "title": "Mississippi senator, whose runoff opponent is black, jokes about 'public hanging'",
+            "description": "A video of Mississippi Sen. Cindy Hyde-Smith joking about attending a public hanging went viral Sunday; her runoff opponent is African-American.",
+            "url": "https://www.nbcnews.com/politics/politics-news/mississippi-senator-whose-runoff-opponent-black-jokes-about-public-hanging-n935006",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2018_45/2642561/181111-cindy-hyde-smith-se-814p_939442f9048d6a31016b5de073c25b0f.1200;630;7;70;5.jpg",
+            "publishedAt": "2018-11-12T02:02:00Z",
+            "content": "Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE Nov. 12, 2018 / 2:02 AM GMT A video of U.S. Sen. Cindy Hyde-Smith, R-Miss., who faces a runoff against an African-American opponent, joking a… [+3900 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Teri Whitcraft",
+            "title": "Michelle Obama reflects on being the first black first lady and her reaction to Donald Trump winning the presidency",
+            "description": "Former first lady Michelle Obama speaks about past fertility and marital struggles, and her profound anger at President Donald Trump in her memoir, \"Becoming.\"",
+            "url": "https://abcnews.go.com/GMA/Culture/michelle-obama-reflects-black-lady-reaction-donald-trump/story?id=59124181",
+            "urlToImage": "https://s.abcnews.com/images/GMA/robin-roberts-m-obama2-bug-abc-ml-181107_hpMain_16x9_992.jpg",
+            "publishedAt": "2018-11-12T02:01:24Z",
+            "content": "In her new memoir, former first lady Michelle Obama reveals the extraordinary highs and devastating lows that marked her journey from a working-class neighborhood in Chicago to the White House. Interested in Michelle Obama? Add Michelle Obama as an interest t… [+11979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espn.com"
+            },
+            "author": null,
+            "title": "Why saying no is paying off for Marcus Mariota",
+            "description": "The Titans' offense is humming, thanks to the Mariota's growing assertiveness, just in time to make a playoff push.",
+            "url": "http://www.espn.com/nfl/story/_/id/25247511/why-saying-no-paying-tennessee-titans-qb-marcus-mariota-2018-nfl",
+            "urlToImage": "http://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F1111%2Fr462266_1296x729_16%2D9.jpg",
+            "publishedAt": "2018-11-12T01:23:06Z",
+            "content": "NASHVILLE, Tenn. -- Part of the reason it took Marcus Mariota so long to find his footing in the Tennessee Titans ' new offense this year is that he's too polite. Titans offensive coordinator Matt LaFleur, who arrived this year with new head coach Mike Vrabel… [+4307 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Morgan Gstalter",
+            "title": "Ex-Clinton aide: Hillary will run again in 2020",
+            "description": "Mark Penn, a former adviser to the Clintons, believes Hillary Clinton will make another run for president in 2020.",
+            "url": "https://thehill.com/homenews/campaign/416164-ex-clinton-aide-hillary-will-run-again-in-2020",
+            "urlToImage": "https://thehill.com/sites/default/files/blogs/clintonhillary_110716getty_0.jpg",
+            "publishedAt": "2018-11-12T00:11:49Z",
+            "content": "Mark Penn, a former adviser to the Clintons, believes Hillary Clinton Hillary Diane Rodham Clinton Dem Harley Rouda unseats Rohrabacher in swing California district Sarah Silverman: I'm 'very lucky' I don't have to wear a Jewish star in Trump era Bill Maher: … [+2181 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chron.com"
+            },
+            "author": "Brooke A. Lewis",
+            "title": "Veterans Day parade in downtown Houston pays homage to soldiers",
+            "description": "Connie Sykora-Gerlich was there to remember her father.\n\n                Standing near the corner of Dallas and Bagby Street, moments before the Veterans Day parade began Sunday afternoon in downtown Houston, she uses the day to honor him and his service as a…",
+            "url": "https://www.chron.com/news/houston-texas/houston/article/Veterans-Day-parade-in-downtown-Houston-pays-13382561.php",
+            "urlToImage": "https://s.hdnux.com/photos/76/71/31/16488025/5/rawImage.jpg",
+            "publishedAt": "2018-11-12T00:03:40Z",
+            "content": "Matthew Marcoux, 10, salutes as he watches the parade at the Houston Salutes American Heroes Veterans Day Celebration Sunday, Nov. 11, 2018, in Houston honoring the 100th Anniversary of the signing of the World War I Armistice. less Matthew Marcoux, 10, salut… [+12916 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "David Jackson",
+            "title": "After a weekend in Paris, President Trump faces challenges back home",
+            "description": "After attending ceremonies in Paris, President Donald Trump returns to face a political maelstrom in Washington, D.C.",
+            "url": "https://www.usatoday.com/story/news/politics/2018/11/11/donald-trump-returns-paris/1957638002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2018/11/11/USAT/c7cc7b26-33df-42cf-872a-23e92527d6ee-AP_France_WWI_US_Trump.JPG?crop=4472,2511,x0,y0&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2018-11-11T23:31:34Z",
+            "content": "President Trump delivers remarks at an American cemetery near Paris, France dedicated to those who died in WWI. USA TODAY President Donald Trump and first lady Melania Trump alight from Air Force One after arriving in Paris. (Photo: Michel Euler, AP) PARIS – … [+5114 chars]"
+        }
+    ]
+}
